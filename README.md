@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giups003
 - 👀 I’m interested in Phyton, SQL, JavaScript, C++
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to buy a spaceship ✨
+- 🌕 I’m looking to buy a spaceship ✨
 - 📫 Instagram: @giu._.galati  Email: giusecs003@gmail.com
 
 <!---
